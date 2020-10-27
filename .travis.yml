@@ -3,6 +3,7 @@ services:
     - docker
 
 before_install:
+    - echo -e "echoing some text"
     - docker build -t chyngyzsydykov/docker-react -f Dockerfile.dev .
 
 script:
