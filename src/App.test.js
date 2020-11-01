@@ -10,6 +10,6 @@ test('renders learn react link', () => {
 
 test('renders wow text', () => {
   render(<App />);
-  const ddd = screen.getByText(/wow/i);
+  const ddd = screen.getByText(/Travis test run/i);
   expect(ddd).toBeInTheDocument();
 });

@@ -9,7 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Hello World Chika. editing file. really. wow
+        Hello World Chika.<br/>
+        Travis test run<br/>
       </header>
     </div>
   );
