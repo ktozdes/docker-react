@@ -11,6 +11,7 @@ function App() {
         </p>
         Hello World Chika.<br/>
         Travis test run<br/>
+        Feature 1<br/>
       </header>
     </div>
   );
